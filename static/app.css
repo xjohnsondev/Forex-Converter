@@ -1,0 +1,46 @@
+p {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+#content {
+    margin: 5vh 5vw;
+    height: 85vh;
+    background-color: rgb(173, 168, 179);
+}
+
+label {
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+#amountBox {
+    width: 100px;
+    margin-right: 15px;
+}
+
+div{
+    margin: 5vh 10vw;
+}
+
+select {
+    width: 75px;
+    padding-left: 10px;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.success{
+    /* background-color: rgb(35, 204, 35); */
+}
+
+.error{
+    /* background-color: red; */
+}
